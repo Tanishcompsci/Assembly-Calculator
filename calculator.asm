@@ -1,7 +1,3 @@
-;Tanish Parlapall
-;10/17/2023
-;Chapter 6 lab: Functions
-
 %include "CPsub64.inc"
 %include "Macros_CPsub64.inc"
 
